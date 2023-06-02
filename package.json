@@ -1,0 +1,34 @@
+{
+  "name": "eslint-plugin-localize-usage",
+  "version": "1.0.6",
+  "description": "ESLint rules for enforcing the usage of localize function and component",
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "react",
+    "localize"
+  ],
+  "author": "Amir Ali",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint:fix": "npm run lint -- --fix",
+    "test": "mocha tests --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amir-deriv/eslint-plugin-localize-usage"
+  },
+  "homepage": "https://github.com/amir-deriv/eslint-plugin-localize-usage",
+  "peerDependencies": {
+    "eslint": ">= 6"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint": "^8.6.0",
+    "mocha": "^5.2.0"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "license": "MIT"
+}
