@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-localize-usage",
+  "name": "@deriv/eslint-plugin-localize-usage",
   "version": "1.0.7-beta",
   "description": "ESLint rules for enforcing the usage of localize function and component",
   "keywords": [
