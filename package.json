@@ -23,9 +23,9 @@
     "eslint": ">= 6"
   },
   "devDependencies": {
-    "babel-eslint": "^8.2.6",
+    "babel-eslint": "^10.1.0",
     "eslint": "^8.6.0",
-    "mocha": "^5.2.0"
+    "mocha": "^10.4.0"
   },
   "engines": {
     "node": ">=6"
